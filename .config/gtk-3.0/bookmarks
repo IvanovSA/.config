@@ -1,0 +1,7 @@
+smb://192.168.0.1/volume1/
+file:///home/saivanov/Documents Documents
+file:///home/saivanov/Music Music
+file:///home/saivanov/Pictures Pictures
+file:///home/saivanov/Videos Videos
+file:///home/saivanov/Downloads Downloads
+smb://192.168.0.100/downloads/ HI-PC_Downloads

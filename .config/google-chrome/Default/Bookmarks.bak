@@ -1,0 +1,36 @@
+{
+   "checksum": "93f3b9364c44e0f899a38c80256643ed",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13076766543821061",
+            "id": "6",
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         } ],
+         "date_added": "13076766531189086",
+         "date_modified": "13076766543821061",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13076766531189101",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13076766531189103",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
